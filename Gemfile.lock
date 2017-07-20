@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/m9617/calderon_view_tool
+  revision: be49c3a0054247bc1bb6b6745584ac380d99af0d
+  specs:
+    calderon_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +191,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   byebug
+  calderon_view_tool!
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   friendly_id (~> 5.1.0)
