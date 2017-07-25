@@ -57,4 +57,4 @@ gem 'devise', '~> 4.3'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
-gem 'calderon_view_tool', git: 'https://github.com/m9617/calderon_view_tool'
+gem 'calderon_view_tool', '~> 0.1.0'
